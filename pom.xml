@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.gnorien</groupId>
-	<artifactId>prime-app</artifactId>
+	<artifactId>psb</artifactId>
 	<version>1.0</version>
 	<name>psb</name>
 	<description>springboot prime project for Spring Boot</description>
